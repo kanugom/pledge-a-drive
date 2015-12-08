@@ -2,7 +2,7 @@
   .table-row
     .table-cell.sidebar
       %h1
-        = image_tag "logos/adopt-a-hydrant.png", :alt => t("titles.main", :thing => t("defaults.thing").titleize), :title => t("titles.main", :thing => t("defaults.thing").titleize)
+        = image_tag "logos/pledge-to-donate.jpg", :alt => t("titles.main", :thing => t("defaults.thing").titleize), :title => t("titles.main", :thing => t("defaults.thing").titleize)
       %p.alert-message.block-message#tagline
         = t("defaults.tagline")
       #content
@@ -10,10 +10,10 @@
       #logos
         %a{:href => "http://codeforamerica.org/"}
           = image_tag "logos/cfa.png", :alt => t("sponsors.cfa"), :title => t("sponsors.cfa")
-        %a{:href => "http://bostonbuilt.org/"}
-          = image_tag "logos/boston.png", :alt => t("sponsors.city"), :title => t("sponsors.city")
+        %a{:href => "http://https://en.wikipedia.org/wiki/Ventura_County,_California/"}
+          = image_tag "logos/venturacounty_logo.jpg", :alt => t("sponsors.city"), :title => t("sponsors.city")
       #feedback
-        %a{:href => URI.escape("mailto:adoptahydrant@cityofboston.gov?subject=#{t("titles.main", :thing => t("defaults.thing").titleize)} #{t("links.feedback").titleize}")}
+        %a{:href => URI.escape("mailto:kanugom@gmail.com?subject=#{t("titles.main", :thing => t("defaults.thing").titleize)} #{t("links.feedback").titleize}")}
           = t("links.feedback")
     .table-cell#map
       &nbsp;

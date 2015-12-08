@@ -8,16 +8,16 @@
 [gemnasium]: https://gemnasium.com/codeforamerica/adopt-a-hydrant
 [coveralls]: https://coveralls.io/r/codeforamerica/adopt-a-hydrant
 
-Claim responsibility for shoveling out a fire hydrant after it snows.
+This giving season and beyond, consider making donating your Food, Toyos or even just your time at one of these many Food and Toy drives in and around Ventura County.
 
 ## Screenshot
-![Adopt-a-Hydrant](https://github.com/codeforamerica/adopt-a-hydrant/raw/master/screenshot.png "Adopt-a-Hydrant")
+![Adopt-a-Hydrant](https://github.com/codeforamerica/adopt-a-hydrant/raw/master/screenshot.png "Pledge-to-Donate")
 
 ## Demo
 You can see a running version of the application at
-[http://adopt-a-hydrant.herokuapp.com/][demo].
+[http://pledge-to-donate.herokuapp.com/][demo].
 
-[demo]: http://adopt-a-hydrant.herokuapp.com/
+[demo]: http://pledge-to-donate.herokuapp.com/
 
 ## Installation
 This application requires [Postgres](http://www.postgresql.org/) to be installed
